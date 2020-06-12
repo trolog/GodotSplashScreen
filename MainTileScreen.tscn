@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://TileScreenMockup.png" type="Texture" id=1]
+
+[node name="MainTileScreen" type="Node2D"]
+
+[node name="TileScreenMockup" type="Sprite" parent="."]
+position = Vector2( 520, 280 )
+texture = ExtResource( 1 )
